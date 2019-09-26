@@ -15,9 +15,9 @@
 - After submitting the form you will see a log message like this (https://d.pr/i/MxItIU)
 
 ## Acceptance: 
-- You need to work on `/test/script.js` and `style.css` 
+- You need to work on `/test/script.js` and `/test/style.css` 
 - Fullfil above requiredment
-- send us only `script.js` and `style.css`
+- After completing the task please send us only `script.js` and `style.css`
 
 
 
