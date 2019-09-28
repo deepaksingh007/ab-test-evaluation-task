@@ -16,7 +16,7 @@
 
 ## Acceptance: 
 - You need to work on `/test/script.js` and `/test/style.css` 
-- Fullfil above requiredment
+- Fullfil above requirement
 - After completing the task please send us only `script.js` and `style.css`
 
 
